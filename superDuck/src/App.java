@@ -1,8 +1,8 @@
-import com.myClass.Mandarin;
+import com.myClass.PlasticDuck;
 
 public class App {
     public static void main(String[] args) {
-        Mandarin mandarin = new Mandarin();
-        mandarin.show();
+        PlasticDuck plasticDuck = new PlasticDuck();
+        plasticDuck.quack();
     }
 }

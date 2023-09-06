@@ -1,6 +1,6 @@
-package com.myClass;
+package com.myClass.superClass;
 
-abstract class Duck {
+public abstract class Duck {
     public void swim() {
         System.out.println("Swim in water");
     }
