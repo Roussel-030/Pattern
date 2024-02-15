@@ -1,4 +1,4 @@
-package com.strategyPattern;
+package com.strategyPattern.superDuck;
 
 import com.strategyPattern.superDuck.subClass.Mallard;
 import com.strategyPattern.superDuck.superClass.Duck;
